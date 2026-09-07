@@ -10,3 +10,5 @@
 - [x] Alternar clips e imágenes con cortes, fundidos y movimiento profesional
 - [x] Mostrar autor y licencia del material sin interrumpir la reproducción
 - [x] Comprobar que un clip roto vuelva automáticamente a la imagen de archivo
+
+- [ ] Terminar la animación Volumen 1 del alunizaje hasta el final del guión
